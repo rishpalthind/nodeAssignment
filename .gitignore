@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment variable file
+.env
+
+# OS
+.DS_Store
+
+# Build
+dist/
